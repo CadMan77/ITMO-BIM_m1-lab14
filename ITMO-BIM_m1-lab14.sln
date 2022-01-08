@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowingTheVideo", "ITMO-BIM_m1-lab14\FollowingTheVideo.csproj", "{CF632A0A-B18B-4A9D-B28E-B60CA03AC2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Task", "_Task\_Task.csproj", "{7215486D-57D0-46B0-BE29-DC0998CA6BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF632A0A-B18B-4A9D-B28E-B60CA03AC2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF632A0A-B18B-4A9D-B28E-B60CA03AC2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF632A0A-B18B-4A9D-B28E-B60CA03AC2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF632A0A-B18B-4A9D-B28E-B60CA03AC2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7215486D-57D0-46B0-BE29-DC0998CA6BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7215486D-57D0-46B0-BE29-DC0998CA6BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7215486D-57D0-46B0-BE29-DC0998CA6BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7215486D-57D0-46B0-BE29-DC0998CA6BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB33493-4B78-434A-A1EF-1E7DE1FD5C4E}
+	EndGlobalSection
+EndGlobal
